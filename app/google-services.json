@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "340689860243",
+    "firebase_url": "https://registroelect.firebaseio.com",
+    "project_id": "registroelect",
+    "storage_bucket": "registroelect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340689860243:android:3e97c4afe6085c72",
+        "android_client_info": {
+          "package_name": "com.example.vlax.registroelectiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340689860243-8ohopipf82h78ttpke2cmsds16jf08o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vlax.registroelectiva",
+            "certificate_hash": "5ff59feffc66d490d0e8e6990da16c6630c386be"
+          }
+        },
+        {
+          "client_id": "340689860243-b4usde7v8j636rpphptkkqoqenuspa00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZivHu50xwWvr3D8hCS5NkyOdcSZeA-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340689860243-b4usde7v8j636rpphptkkqoqenuspa00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
