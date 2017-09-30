@@ -1,4 +1,4 @@
-package com.example.vlax.registroelectiva;
+package com.example.vlax.registroelect;
 
 import org.junit.Test;
 

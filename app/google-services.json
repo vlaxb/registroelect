@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:340689860243:android:3e97c4afe6085c72",
+        "mobilesdk_app_id": "1:340689860243:android:8e99c56508783d81",
         "android_client_info": {
-          "package_name": "com.example.vlax.registroelectiva"
+          "package_name": "com.example.vlax.registroelect"
         }
       },
       "oauth_client": [
         {
-          "client_id": "340689860243-8ohopipf82h78ttpke2cmsds16jf08o7.apps.googleusercontent.com",
+          "client_id": "340689860243-i415iuj815itrbr5l7p0c5rmu7gvshc3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.vlax.registroelectiva",
+            "package_name": "com.example.vlax.registroelect",
             "certificate_hash": "5ff59feffc66d490d0e8e6990da16c6630c386be"
           }
         },
