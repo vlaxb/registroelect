@@ -42,6 +42,13 @@
         </activity>
 
         <activity android:name=".Login" />
+        <activity android:name=".Registro">
+            <intent-filter>
+                <action android:name="android.intent.action.DEFAULT" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
