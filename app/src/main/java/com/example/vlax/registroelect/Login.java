@@ -129,7 +129,8 @@ public class Login extends AppCompatActivity {
                             if(cantidad2 == 0){
                                 Toast.makeText(getApplicationContext(),"Contrasena incorrecta", Toast.LENGTH_SHORT).show();
                             }else{
-                                Toast.makeText(getApplicationContext(),"Session iniciada", Toast.LENGTH_SHORT).show();
+                                Intent intent = new Intent(Login.this, Firelist.class);
+                                startActivity(intent);
                             }
                         }
 

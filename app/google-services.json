@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "340689860243-oaitfuil3gtsebqtsb2ftgmbrllkf4gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vlax.registroelect",
+            "certificate_hash": "ccb20f54fa53389dbced60001138977a6dc74571"
+          }
+        },
+        {
           "client_id": "340689860243-i415iuj815itrbr5l7p0c5rmu7gvshc3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
