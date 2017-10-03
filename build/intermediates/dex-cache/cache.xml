@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\94bb378fa26ad47e5f16d404d16419af4122999f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ab9494c84a494192aea1d76b8f64d051b8a36a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e80d42533b579cd79cfac871dc0e6411d1fb27d">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_daf10d7a53c58cea9d67c43b091c01e30db6d575\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_73f04fe51974dd3470b7823f4aa86f2cb3fcd9fb\classes.dex" />
+    </item>
+
+</items>
