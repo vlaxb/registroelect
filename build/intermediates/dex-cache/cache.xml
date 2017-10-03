@@ -2,6 +2,7 @@
 <items version="2" >
 
     <item
+<<<<<<< HEAD
         is-multidex="true"
         jar="C:\Users\DESARROLLOTYT\.android\build-cache\94bb378fa26ad47e5f16d404d16419af4122999f\output\jars\classes.jar"
         jumboMode="true"
@@ -27,6 +28,321 @@
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_73f04fe51974dd3470b7823f4aa86f2cb3fcd9fb\classes.dex" />
+=======
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\b595edea2ba42cb30c275a7128b9f3faf02f96eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_edb3b2c92404cdbf1fb337333e927fd7582518c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_4004161e06ea0ef84df6077101db205c847450eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\ae67dc2c1c1db60c579d7271a4752e9280bf36ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_442dbcccd7033e4157fce3c365ca9b750b0beb7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta3_41b3d81c2b6cfb05e12e37e29b07a06c68b961a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\1c2cf8ded1df89b9c4d10bb4a298561faa1b1ad3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_93dcbef1bb352bc6d748a62dcf67715d3371af81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\cc62cc0901ccb6d451b3db05f9b0f564101f4831\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_18f9f20b6ed74cf22475e1b4c948150fb432053f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\2be5bc6cc4d56f3a89e9d9189be046078d370640\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_d7f31b7c6c754b30473e7b0da825725fdb81b43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\502d82087100dcd57beb098dc08014a253410a05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_97ed1fdec9188451d71e7961296cdbe1d8e4488f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\5c0a9cab2b406c6a0fb3304428f1784d8be83003\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_88f5e83b1cc054aa80b285d41586e0e15b12a998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\99c3107ef534eb5f6635965cb0ebdb3bc56f1c13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_adb58562ad3c1b8da88a9481bcdeb582a302e8ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\b59b5085a23ec70b63170b2d49043cbda87e1cab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_49bc57304cd1600df498f950733e9cec3527d3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\b1c79216194c88a01645924a6e8a9b9cade08668\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_a5d07223b961cad761fb636e00c22c20137b1d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\f2b79a01f377b5e3c1c4a246b6fee4e49dc8e299\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_36281500c4750e00de44f39f7d8af57656ae9bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\b5915fb4dc0fb427ebe92323e0f70bc9df7700bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_0518df9533f9d31244782dedf64a368c2086534f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\b4be8cac366abf2867a140b548f8ab1b36e3f2bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_08d08837837cd6319a18c5e22e3ba3dba1acaa90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_de7cc543ea4955c1c9e7d343c95262469dd0dc18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\5a35284a3b903e0f58b4a20bf341f713f3a75faa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_3789c69585a33d51e3248db243fd814df2d92e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c0b8be0fbc1233b3388c006da8c61752695e6cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\1e58789004b1434eedd03748dd7175132cb0e8c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_c5b891656e2b87b7427bb9f8fe7db61084976ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\a9aa7cf790e5ed5f9dd3e818575f41970ee90213\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_9dfbd18d4930072304621c2718e36301f2ed13f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\b7952e8bd46a48956c831744f7807cb5ed2d4b43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_d55d7d1636e0a0fc98234f4ab7cfcb6dab9b489f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\543a6d66ab9e20c97d09fbdc179743ba06042bac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_d98e9f7c930f680c40138adbebe6ccd4313b6ed4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\73a53a4b033f03404ac0c9b237145fd97fc0f0b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_2e42ab563964cdfbb972298c711e85eb5c676d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\6b01a9e0e85185984108f712cc8f551efe26a468\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_7151633abb7a393fd5eb8d18474aaf4c135f6f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\c447e795995bf7f7421a83b301620e3f4aa837d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_fd1ddf783bc04aa6a5bbbd2be6dd5f35aaa9e6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\c5c17483f9d97498a4652da3706d3060e00b0d86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_9cf0657a139a26be38f58c6e36edf5b48073971e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\c212dfa96526fa1fcb1f7bba94141b94115eccbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_28b942d56cf05dbcb51c48a61874a56fedbf14ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\core-3.3.0_3e6ddc8bc806027bdbb419bd17e2cb45aec283c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\21887343187a42f39760d90c7fcbd211ea8d7a3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_3936544bf800cb38fb289705ccf6c3bcd0a610b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\ed1c5f0dca70b4151c46678441e59a511a61ce8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_82427c940697c4eac6f8c57efe0b2035b94fb9c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\3d2358465a98923a739ec1704998dd6c1d0633a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_6d6fd5031ef31d3054cbb35ce54ff1464c0c3628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\dd862750cb90380e8fad6ab2183f645d9689e3fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_068b363b2eec027ffff9bff3a2bcd8bc5323af3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\e28a0b54bfbaac7a8d916006c402b96c220053ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_a3f1a9e8f0c36c82a55d1a244ade7f6cc92fd61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\5cfdd63a9d539805f48b154856a04043e66a0dbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_3fe06bf368899e4d5b0883e53bbf99933853d2ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TYT2017\.android\build-cache\2ac0cac68572ab7100dae06cee56c4d9cb9cd4f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_78611d16d3148327d5a3894416e917d816e4a223.jar" />
+>>>>>>> 29385202f76298f6e635645b460ff1f69e3b0ce3
     </item>
 
 </items>
