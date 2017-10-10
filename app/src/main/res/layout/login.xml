@@ -51,7 +51,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+        android:layout_centerVertical="false"
+        android:layout_marginTop="400dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
         android:indeterminate="true"
         android:visibility="gone" />
 

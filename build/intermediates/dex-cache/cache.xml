@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\2ace2029b8a04a27152645bceed33f540bf0645a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_021ea17691ce8a9dbee46228c7c0c76cc8f8bdbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\a77dad003e2a6fb4841b264596f81e9a223923af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_bfa7bb740ee5300da344ce376df068fe93439d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\94bb378fa26ad47e5f16d404d16419af4122999f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_2ab9494c84a494192aea1d76b8f64d051b8a36a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_73f04fe51974dd3470b7823f4aa86f2cb3fcd9fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\161dd47ab19c0a919683f016342e3edbb53969ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_a13289005b81842aeb74f2addd75f1abc113e1a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98111ca2359a5237b617719d09817b340b9a95a9">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_daf10d7a53c58cea9d67c43b091c01e30db6d575\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\c698d7fedc70279a198bdc4aa7aa21e3f14dab25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_7f1d834a8ae1f8e67e592a7f811986463e5ad2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\a04c7564845c5e1af600dfae119f5237cd59a027\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_106d7ab6102aba97fbd7b0093b05f45ce4d1b74f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\d9d9c372d8a386c81961ff6c5f647a7e6d98ae55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_3c5f24596978b1a8fbbff049a2ab730ff633abd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\dbcbb9cac93fa5186fce3762d549e72a45c60d01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_79be2569096434654042a2796ce6e3c82498d240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\f53d8e4cf190079ca88db8f338bffda79757e335\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_23a482e3ea425c18e1a02811c3253f2ce8b7516a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\e0a7421af80336236e9bf5f29b80733f12ec5413\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_b19efadbcce09eee3dc2736a4471960a2c73af55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DESARROLLOTYT\.android\build-cache\c064b65820db44bba64c2a953e54ce02a5adedd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_cbef45900704eb363ad112ffa045ded63aa940ee.jar" />
+    </item>
+
+</items>

@@ -7,4 +7,5 @@
     <string name="firebase_error_login">Error al iniciar sesión en Firebase</string>
     <string name="facebook_app_id">352621575192685</string>
     <string name="fb_login_protocol_scheme">fb352621575192685</string>
+    <string name="txtBtnSend">enviar</string>
 </resources>
