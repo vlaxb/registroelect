@@ -17,8 +17,10 @@ public class AdminSQLiteOpenHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL("create table Registros(correo text primary key, contrasena text)");
+        db.execSQL("create table Dialog(titulo text primary key, fecha text)");
         //Datos
         db.execSQL("insert into Registros(correo, contrasena) values('tucho@gmail.com','tucho')");
+        db.execSQL("insert into Dialog(titulo, fecha) values('tucho','10/10/2017')");
     }
 
     @Override
