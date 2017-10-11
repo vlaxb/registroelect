@@ -11,6 +11,10 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:hint="ingresar texto" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/Registro
     <EditText
         android:id="@+id/editText2"
         android:layout_width="match_parent"
@@ -18,15 +22,31 @@
         android:hint="ingresar texto"
         android:layout_below="@+id/editText1"
         android:layout_alignParentStart="true" />
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/Registro
+>>>>>>> origin/Registro
 
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="enviar"
+<<<<<<< HEAD
         android:layout_below="@+id/editText1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp" />
+=======
+<<<<<<< HEAD
+        android:layout_below="@+id/editText1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp" />
+=======
+        android:layout_below="@id/editText1"
+        android:layout_centerHorizontal="true"  />
+>>>>>>> origin/Registro
+>>>>>>> origin/Registro
 
     <TextView
         android:id="@+id/textView1"
@@ -42,6 +62,10 @@
         android:layout_centerHorizontal="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/Registro
     <TextView
         android:id="@+id/textView3"
         android:text="aun no ha ingresado palabra"
@@ -50,6 +74,11 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView2"
         android:layout_alignStart="@+id/textView2" />
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/Registro
+>>>>>>> origin/Registro
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv"

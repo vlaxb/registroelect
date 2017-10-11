@@ -1,8 +1,23 @@
 <component name="libraryTable">
   <library name="support-core-ui-25.3.1">
     <CLASSES>
+<<<<<<< HEAD
       <root url="file://$USER_HOME$/.android/build-cache/914c19fa93aeee1cdf993eb425b438a4e36beb7e/output/res" />
       <root url="jar://$USER_HOME$/.android/build-cache/914c19fa93aeee1cdf993eb425b438a4e36beb7e/output/jars/classes.jar!/" />
+=======
+<<<<<<< HEAD
+      <root url="file://$USER_HOME$/.android/build-cache/914c19fa93aeee1cdf993eb425b438a4e36beb7e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/914c19fa93aeee1cdf993eb425b438a4e36beb7e/output/jars/classes.jar!/" />
+=======
+<<<<<<< HEAD
+      <root url="file://$USER_HOME$/.android/build-cache/914c19fa93aeee1cdf993eb425b438a4e36beb7e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/914c19fa93aeee1cdf993eb425b438a4e36beb7e/output/jars/classes.jar!/" />
+=======
+      <root url="jar://$USER_HOME$/.android/build-cache/f2b79a01f377b5e3c1c4a246b6fee4e49dc8e299/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/f2b79a01f377b5e3c1c4a246b6fee4e49dc8e299/output/res" />
+>>>>>>> 29385202f76298f6e635645b460ff1f69e3b0ce3
+>>>>>>> origin/Registro
+>>>>>>> origin/Registro
     </CLASSES>
     <JAVADOC />
     <SOURCES>

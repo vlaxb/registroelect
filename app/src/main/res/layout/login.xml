@@ -57,6 +57,11 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="false"
         android:layout_marginTop="400dp"
+<<<<<<< HEAD
+=======
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+>>>>>>> origin/Registro
         android:indeterminate="true"
         android:paddingBottom="10dp"
         android:paddingTop="10dp"

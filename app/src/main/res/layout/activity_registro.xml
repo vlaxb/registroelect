@@ -4,7 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     android:background="@color/com_facebook_button_background_color_disabled"
+=======
+>>>>>>> origin/Registro
     tools:context="com.example.vlax.registroelect.Registro">
 
     <LinearLayout
