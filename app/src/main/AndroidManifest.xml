@@ -57,6 +57,9 @@
             </intent-filter>
         </activity>
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/Registro
         <activity android:name=".Dialogext">
             <intent-filter>
                 <action android:name="android.intent.action.DEFAULT" />
@@ -64,7 +67,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/Registro
 >>>>>>> origin/Registro
     </application>
 

@@ -3,6 +3,9 @@
 
     <item
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/Registro
         is-multidex="false"
         jar="C:\Users\DESARROLLOTYT\.android\build-cache\2ace2029b8a04a27152645bceed33f540bf0645a\output\jars\classes.jar"
         jumboMode="false"
@@ -118,6 +121,8 @@
         revision="25.0.0"
         sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
         <dex dex="C:\Users\DESARROLLOTYT\Documents\registroelect\app\build\intermediates\pre-dexed\debug\classes_cbef45900704eb363ad112ffa045ded63aa940ee.jar" />
+<<<<<<< HEAD
+=======
 =======
 <<<<<<< HEAD
         is-multidex="true"
@@ -460,6 +465,7 @@
         sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
         <dex dex="C:\Users\TYT2017\Documents\Android\registroelect\app\build\intermediates\pre-dexed\debug\classes_78611d16d3148327d5a3894416e917d816e4a223.jar" />
 >>>>>>> 29385202f76298f6e635645b460ff1f69e3b0ce3
+>>>>>>> origin/Registro
 >>>>>>> origin/Registro
     </item>
 

@@ -9,9 +9,14 @@
       <root url="jar://$USER_HOME$/.android/build-cache/bad4b765d31df2c8b186ddaea3bdb3dc2db53fda/output/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.android/build-cache/bad4b765d31df2c8b186ddaea3bdb3dc2db53fda/output/res" />
 =======
+<<<<<<< HEAD
+      <root url="jar://$USER_HOME$/.android/build-cache/bad4b765d31df2c8b186ddaea3bdb3dc2db53fda/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/bad4b765d31df2c8b186ddaea3bdb3dc2db53fda/output/res" />
+=======
       <root url="jar://$USER_HOME$/.android/build-cache/437b4c5b2f95b79c75fda222bfa0933de94067a8/output/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.android/build-cache/437b4c5b2f95b79c75fda222bfa0933de94067a8/output/res" />
 >>>>>>> 29385202f76298f6e635645b460ff1f69e3b0ce3
+>>>>>>> origin/Registro
 >>>>>>> origin/Registro
     </CLASSES>
     <JAVADOC />
