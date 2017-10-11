@@ -2,48 +2,52 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@color/com_facebook_button_background_color_disabled">
 
 
     <EditText
         android:id="@+id/usuario"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="90dp"
         android:elevation="1dp"
         android:ems="10"
         android:hint="Correo Electronico"
-        android:inputType="textEmailAddress" />
+        android:inputType="textEmailAddress"
+        android:layout_alignBottom="@+id/clave"
+        android:layout_toEndOf="@+id/progressBar"
+        android:layout_marginBottom="51dp" />
 
     <EditText
         android:id="@+id/clave"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="150dp"
         android:ems="10"
         android:hint="Clave"
-        android:inputType="textPassword" />
+        android:inputType="textPassword"
+        android:layout_above="@+id/button2"
+        android:layout_toEndOf="@+id/progressBar"
+        android:layout_marginBottom="10dp" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
         android:layout_centerInParent="false"
-        android:layout_centerVertical="true"
-        android:text="Ingresar" />
+        android:text="Ingresar"
+        android:layout_above="@+id/textView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="10dp" />
 
     <com.facebook.login.widget.LoginButton
         android:id="@+id/loginButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="false"
-        android:layout_marginTop="350dp"
+        android:layout_marginTop="20dp"
         android:paddingBottom="10dp"
-        android:paddingTop="10dp" />
+        android:paddingTop="10dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
 
     <ProgressBar
         android:id="@+id/progressBar"
@@ -51,17 +55,29 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+        android:layout_centerVertical="false"
+        android:layout_marginTop="400dp"
         android:indeterminate="true"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
         android:visibility="gone" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/button2"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="28dp"
-        android:text="-O-" />
+        android:text="O tambien puedes ingresar por:"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/loginButton" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bienvenido a mi aplicacion"
+        android:textSize="18sp"
+        android:layout_below="@+id/progressBar"
+        android:layout_toStartOf="@+id/button2"
+        android:layout_marginTop="34dp" />
 
 </RelativeLayout>

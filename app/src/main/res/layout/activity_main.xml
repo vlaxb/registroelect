@@ -38,5 +38,16 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:onClick="logout"
-        android:text="@string/logout" />
+        android:text="@string/logout"
+        android:id="@+id/button3" />
+
+    <Button
+        android:id="@+id/dialogbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="13dp"
+        android:allowUndo="false"
+        android:text="Dialog" />
 </RelativeLayout>
